@@ -7,7 +7,7 @@ use FFMpeg\Coordinate\TimeCode;
 use FFMpeg\Format\Video\Gif;
 use FFMpeg\Format\Video\X264;
 
-class VideoToGifConverter
+class PhpVideoToGif
 {
 	private $ffmpeg;    
 	private $imagick;
