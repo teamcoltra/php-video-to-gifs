@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "php-ffmpeg/php-ffmpeg": "^0.17.0",
-        "ext-imagick": "*"
+	"ext-imagick": "*",
+        "php-ffmpeg/php-ffmpeg": "^1.0.1"
     },
     "autoload": {
         "psr-4": {
@@ -32,7 +32,7 @@
     },
     "config": {
         "platform": {
-            "ext-imagick": "*"
+            "ext-imagick": "3.4.0"
         }
     },
     "scripts": {
