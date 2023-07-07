@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TeamColtra\\PhpVideoToGif\\": "src/"
+            "PhpVideoToGif\\": "src/PhpVideoToGif"
         }
     },
     "require-dev": {
