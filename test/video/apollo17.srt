@@ -1,0 +1,49 @@
+﻿1
+00:00:00,685 --> 00:00:03,013
+- [CDR-LM] --pushed.
+Engine arm is ascent.
+
+2
+00:00:03,013 --> 00:00:06,933
+- [LMP-LM] Okay. I'm going to get the pro,
+99 proceeded.
+
+3
+00:00:06,933 --> 00:00:10,277
+Three, two, one, ignition.
+
+4
+00:00:10,277 --> 00:00:12,661
+- [CDR-LM] We're on our way, Houston.
+
+5
+00:00:12,661 --> 00:00:15,769
+- [LMP-LM] Rates are good. AGS solid.
+
+6
+00:00:19,702 --> 00:00:21,234
+- [MS-LM] Pitchover!
+
+7
+00:00:21,438 --> 00:00:23,164
+- [CC] Roger. You have good thrust.
+
+8
+00:00:23,164 --> 00:00:25,481
+[beep and radio static]
+
+9
+00:00:29,711 --> 00:00:31,733
+- [LMP-LM] Okay, 30 seconds,
+
+10
+00:00:31,733 --> 00:00:33,033
+308 is your number.
+
+11
+00:00:33,033 --> 00:00:34,891
+- [CDR-LM] Okay, coming through 1500 feet.
+
+12
+00:00:34,891 --> 00:00:36,421
+- [LMP-LM] And H-dot looks good.
