@@ -1,4 +1,5 @@
 <?php
+namespace TeamColtra\PhpVideoToGif;
 require 'vendor/autoload.php';
 
 use FFMpeg\FFMpeg;
